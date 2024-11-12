@@ -29,5 +29,7 @@ left
 
 left
 
+### Визуализация на решен 15Puzzle:
+
 ![15PuzzleSolvedImage](https://michael.kim/images/15puzzle-solved.png)
 
