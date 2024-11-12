@@ -13,13 +13,21 @@
 
 ### Примерен вход:
 8
+
 -1
+
 1 2 3
+
 4 5 6
+
 0 7 8
 
 ### Примерен изход:
 2
+
 left
+
 left
+
+![15PuzzleSolvedImage](https://michael.kim/images/15puzzle-solved.png)
 
